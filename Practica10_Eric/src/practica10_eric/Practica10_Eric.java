@@ -13,6 +13,9 @@ public class Practica10_Eric {
       
         System.out.println("6. Comproba aquest petit canvi");
         
+        System.out.println("LA versió que tenim a github ha estat actualitzada i és més actual que la que tinc en local");
+
+        
     }    
         
 }
